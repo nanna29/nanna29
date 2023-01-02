@@ -13,8 +13,6 @@
 <br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna29&layout=compact">
-  <br>
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=dracula)
   
 </div>
