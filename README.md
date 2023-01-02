@@ -7,10 +7,8 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=radical)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna29&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna29&layout=compact">
 </div>
 
 
