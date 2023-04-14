@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I'm%20nanna29&fontSize=70&fontColor=ffffff)
 
 <div align=center>
+  <h3>👋 Introduction 👋</h3>
+  <p>🏫Name🏫</p>
+  <p>🏫University🏫</p>
   <h3>📚 Tech STACKS 📚</h3>
   <p>✨ Languages ✨</p>
 </div>
