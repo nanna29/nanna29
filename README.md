@@ -4,10 +4,10 @@
   <h3>👋 Introduction 👋</h3>
   <p>🏫Name🏫</p>
   <p>🏫University🏫</p>
+  <br><br>
   <h3>📚 Tech STACKS 📚</h3>
   <p>✨ Languages ✨</p>
 </div>
-<br><br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
