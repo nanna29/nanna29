@@ -7,6 +7,7 @@
   <h3>📚 Tech STACKS 📚</h3>
   <p>✨ Languages ✨</p>
 </div>
+<br><br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
@@ -17,7 +18,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
-<br>
+<br><br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna29&layout=compact">
   <br><br>
