@@ -3,7 +3,10 @@
 <div align=center>
   <h3>👋 Introduction 👋</h3>
   <p>🏫Name🏫</p>
+  Kim NaYeong
   <p>🏫University🏫</p>
+  SEOUL WOMEN'S UNIVERSITY (2021.03~)
+  Dept. of Software Convergence
   <br><br>
   <h3>📚 Tech STACKS 📚</h3>
   <p>✨ Languages ✨</p>
