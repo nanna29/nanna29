@@ -40,9 +40,9 @@
 <br>
 
 # ✨ etc... ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna29&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna9&layout=compact&theme=tokyonight">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanna29&count_bg=%23D278FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
