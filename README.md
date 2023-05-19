@@ -17,14 +17,14 @@
 # 📚 Tech STACKS 📚
 > 📕 **Language**  
 > <div>
-  > <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
-  > <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  > <img src="https://img.shields.io/badge/c%23-000000?style=flat&logo=c%2B%2B&logoColor=white">
-  > <img src="https://img.shields.io/badge/python-3776ABstyle=flat&logo=python&logoColor=white">
-  > <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-  > <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
-  > <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-  > <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+  > <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+  > <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  > <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=c%2B%2B&logoColor=white">
+  > <img src="https://img.shields.io/badge/Python-3776ABstyle=flat&logo=python&logoColor=white">
+  > <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
+  > <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=css3&logoColor=white">
+  > <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+  > <img src="https://img.shields.io/badge/Xaml-0C54C2?style=flat&logo=xaml&logoColor=white">
 > </div>   
 > <br>
 > 
@@ -35,6 +35,7 @@
   > <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
   > <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   > <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
+  > <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 > </div>
 
 <br>
