@@ -31,11 +31,12 @@
 > 
 > 🛠 **Tool**    
 > <div>
-  > <img src="https://img.shields.io/badge/visual studio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
-  > <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-  > <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
-  > <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  > <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
+  > <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
+  > <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+  > <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
+  > <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  > <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  > <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
   > <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 > </div>
 
