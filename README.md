@@ -25,7 +25,8 @@
   > <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=css3&logoColor=white">
   > <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   > <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-  > <img src="https://img.shields.io/badge/xaml-0C54C2?style=flat&logo=xaml&logoColor=white">
+  > <img src="https://img.shields.io/badge/Xaml-0C54C2?style=flat&logo=xaml&logoColor=white">
+  > <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 > </div>   
 > <br>
 > 
@@ -38,6 +39,7 @@
   > <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
   > <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
   > <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+  > <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
 > </div>
 
 <br>
