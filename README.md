@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
 </div>
-
+<br>
 # ✨ etc... ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=tokyonight)
 
