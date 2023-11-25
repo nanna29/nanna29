@@ -40,14 +40,16 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
+  
 </div>
 <br>
 
 # ✨ etc... ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanna29&show_icons=true&theme=tokyonight)   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanna29&layout=compact&theme=tokyonight">
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25756826-aa7b-4228-a3a4-91f4d926e0a6/deploy-status)](https://app.netlify.com/sites/umcmovieweb/deploys)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnanna29&count_bg=%23D278FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
