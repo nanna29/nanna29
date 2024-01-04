@@ -8,7 +8,7 @@
   > SEOUL WOMEN'S UNIVERSITY <sup>Dept. of Software Convergence</sup>   
   >      
   > 🙆‍♀️ **I LOVE...**   
-  > Exercise, Programming, with Coffee... & Game 🎮
+  > Exercise, Programming, with Hot Coffee... & Game 🎮
   > 
   > 💌 **Email**   
   > kny@swu.ac.kr
